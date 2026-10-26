@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sajjel3endak.app",
+        "sha256_cert_fingerprints": ["B7:03:96:0C:AC:64:B9:F9:A1:62:06:59:A0:6E:AF:19:80:1B:D8:20:AB:32:8C:47:D2:80:2E:3F:BF:E8:A1:1A"]
+      }
+    }]
